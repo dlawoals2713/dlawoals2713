@@ -1,5 +1,4 @@
-### ......네 아무것도 없습니다.
-### ......yeah, here is nothing.👋
+### Hi everyone.👋
 
 <!--
 **dlawoals2713/dlawoals2713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
